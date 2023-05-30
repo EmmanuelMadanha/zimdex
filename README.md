@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Superswap 👋</h1>
+<h1 align="center">Welcome to Zimdex👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/npm-8.15.0-green" target="_blank"/>
@@ -11,11 +11,11 @@
 <p align="center" >
   <img src="./readme_assets/superswap.gif" width="80%" />
 </p>
-<h2 align="center"><a  href="https://getsuperswap.com/" target="_blank">✨Superswap Link</a></h2>
+<h2 align="center"><a  href="https:///" target="_blank">✨ZIMDEX Link</a></h2>
 
 
 ## Description
-> The Superswap platform is a decentralized trading and automated market making protocol built on top of the Ethereum blockchain, which is compatible with all ERC-20 tokens and infrastructure such as wallet services like MetaMask.
+> The ZIMDEX platform is a decentralized trading and automated market making protocol built on top of the Ethereum blockchain, which is compatible with all ERC-20 tokens and infrastructure such as wallet services like MetaMask.
 #### Main contents:
   <ul>
     <li>Implement smart contracts: swap, add liquidity and remove liquidity.</li>
@@ -37,7 +37,7 @@
 
 <b>Install</b>
 ```
-git clone https://github.com/leidanwqq1/Superswap.git
+git clone 
 npm install
 cd frontend && npm install
 ```
@@ -54,10 +54,10 @@ npm start
 
 ## Author
 
-👤 **Dan Lei**
-* Website: https://danlei.org/
-* Github: [@leidanwqq1](https://github.com/leidanwqq1)
-* LinkedIn: [@DanLei](https://linkedin.com/in/danleiweb3/)
+👤 **Shiloh Madanha**
+* Website: 
+* Github: [@](https://github.com/raymadanha)
+* LinkedIn: [@ShilohMadanha](https://linkedin.com/in/shilohmadanha/)
 
 ## Code Contributors
 
@@ -78,5 +78,5 @@ Please ⭐️ this repository if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [Dan Lei](https://github.com/leidanwqq1).<br />
-This project is [MIT](https://github.com/leidanwqq1/Superswap/blob/master/LICENSE) licensed.
+Copyright © 2022 [Shiloh Madanha](https://github.com/raymadanha).<br />
+This project is [MSU](https://github.com/raymadanha/ZIMDEX/blob/master/LICENSE) licensed.

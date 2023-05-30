@@ -109,7 +109,7 @@ export default function Swap({tokens, isConnected, signerAddr, signer, getSigner
           <h6 className="card-title SwapBox-header">
             <div className="row">
               <div className="col-md-10">
-                <span style={{color:"black"}}>Swap</span>
+                <span style={{color:"black"}}>Exchange</span>
               </div>
               <div className="col-md-2">
                 <SwapGearFillModal 
