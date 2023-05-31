@@ -31,7 +31,7 @@
 #### Swap and liquidity:
 - **Swap** Use one token to exchange any ERC20 token.
 - **Liquidity** create new pools, or add liquidity and remove liquidity in existing pools.
-- Note:- Superswap is only deployed on Goerli testnet now.
+- Note:- Zimdex is only deployed on Goerli testnet now.
 
 ## Project setup
 
@@ -59,24 +59,8 @@ npm start
 * Github: [@](https://github.com/raymadanha)
 * LinkedIn: [@ShilohMadanha](https://linkedin.com/in/shilohmadanha/)
 
-## Code Contributors
-
-This project exists thanks to all the people who contribute.<br />
-<a href="https://github.com/leidanwqq1/Superswap/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=leidanwqq1/Superswap" />
-</a>
 
 
-## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome.<br />
-Feel free to check [issues page](https://github.com/leidanwqq1/Superswap/issues) if you want to contribute.<br />
 
-## Show your support
 
-Please ⭐️ this repository if this project helped you!
-
-## 📝 License
-
-Copyright © 2022 [Shiloh Madanha](https://github.com/raymadanha).<br />
-This project is [MSU](https://github.com/raymadanha/ZIMDEX/blob/master/LICENSE) licensed.
