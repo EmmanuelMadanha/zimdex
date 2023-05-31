@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" target="_blank" />
 </p>
 <p align="center" >
-  <img src="./readme_assets/superswap.gif" width="80%" />
+  
 </p>
 <h2 align="center"><a  href="https:///" target="_blank">✨ZIMDEX Link</a></h2>
 
